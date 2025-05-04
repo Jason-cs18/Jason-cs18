@@ -1,6 +1,6 @@
 <h1 align="left">Hi 👋, I'm Yan Lu</h1>
 
-- I am an AI researcher focused on efficient on-device AIGC and multimodal understanding.
+I am an AI researcher focused on efficient on-device AIGC and multimodal understanding.
 
 <h3 align="left">📎 Homepages</h3>
 
