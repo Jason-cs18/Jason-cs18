@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Yan Lu</h1>
 <h3 align="center">An AI researcher focused on efficient on-device AIGC and multimodal understanding.</h3>
 
-- 📝 I regularly write blogs about ML engineering on [https://yanlu.substack.com/](https://yanlu.substack.com/)
+- I am an AI researcher focused on efficient on-device AIGC and multimodal understanding.
+
+- 📝 I regularly write blogs about ML engineering on [https://yanlu.substack.com/](https://yanlu.substack.com/).
 
 - 📫 How to reach me **jasonengineer@hotmail.com**
 
